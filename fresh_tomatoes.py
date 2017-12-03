@@ -26,6 +26,7 @@ main_page_head = '''
             display: block;
             text-align: center;
             margin-top: 20px;
+            bottom: 0;
         }
         #trailer .modal-dialog {
             margin-top: 200px;

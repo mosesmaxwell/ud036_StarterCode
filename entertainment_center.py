@@ -1,4 +1,4 @@
-"""This module will create instances of moview trailers"""
+"""This module will create instances of movie trailers"""
 
 import media
 import fresh_tomatoes
