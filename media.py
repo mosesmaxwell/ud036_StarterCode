@@ -6,7 +6,7 @@ import webbrowser
 class Movie():
     """Movie class for creating movie trailer list"""
 
-    #initialize movie object
+    # initialize movie object
     def __init__(self, movie_title, plot, poster_image_url, trailer_youtube_url):
         self.title = movie_title
         self.plot = plot
@@ -15,7 +15,7 @@ class Movie():
         #self.year = "2017"
         #self.starring = "Actors"
 
-    #open tailer video
+    # open tailer video
     def show_trailer(self):
         """open tailer video popup using webbrowser open method"""
         webbrowser.open(self.trailer_youtube_url)
