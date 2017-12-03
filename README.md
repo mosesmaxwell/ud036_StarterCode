@@ -1,7 +1,7 @@
 # Movie Trailer Website - Udacity Project 1
 Source code for a Movie Trailer website.
 
-This project will create to list my favorite movie trailers. There are six movie youtube tailers are listed in this website.
+This project created to list my favorite movie trailers. There are six movie youtube trailers are listed in this website.
 
 Download and Run Instructions:
 --------------------------------
